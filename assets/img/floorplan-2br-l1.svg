@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="629" height="1051" viewBox="0 0 629 1051" preserveAspectRatio="xMidYMid meet" role="img" aria-label="Carroll LaPlata Village two-bedroom townhouse, main level floor plan with kitchen/dining, living room, closet and stairs">
+<defs><style>
+    .fp{fill:#FFFFFF}
+    .w{fill:none;stroke:#2C3E2D;stroke-width:7;stroke-linecap:butt}
+    .wo{fill:none;stroke:#2C3E2D;stroke-width:10;stroke-linecap:butt}
+    .d{fill:none;stroke:#7C9880;stroke-width:4;stroke-dasharray:5 6}
+    .arc{fill:none;stroke:#5E7D63;stroke-width:3}
+    .win{fill:none;stroke:#2C3E2D;stroke-width:2.5}
+    .rm{fill:#22331F;font-family:'Helvetica Neue',Arial,sans-serif;font-size:25px;font-style:italic;text-anchor:middle}
+    .cl{fill:#4A5C4D;font-family:'Helvetica Neue',Arial,sans-serif;font-size:18px;font-style:italic;text-anchor:middle}
+    .sm{fill:#4A5C4D;font-family:'Helvetica Neue',Arial,sans-serif;font-size:14px;font-style:italic;text-anchor:middle}
+  </style></defs>
+<rect class="fp" x="23" y="25" width="580" height="1007"/>
+<path class="w" d="M18,525 H403 M504,655 H595"/>
+<path class="d" d="M374,525 H398 M587,525 H613"/>
+<path class="win" d="M85,20 H181 M85,25 H181 M85,30 H181 M85,18 V32 M181,18 V32"/>
+<path class="win" d="M395,20 H532 M395,25 H532 M395,30 H532 M395,18 V32 M532,18 V32"/>
+<path class="arc" d="M129,1032 V895 M129,895 A137,137 0 0 1 266,1032"/>
+<path class="arc" d="M368,1032 V916 M368,916 A116,116 0 0 1 484,1032"/>
+<path class="wo" d="M23,25 H85 M181,25 H395 M532,25 H603 V1032 H484 M368,1032 H266 M129,1032 H23 V25"/>
+<text class="rm" x="295" y="335">Kitchen/Dining</text>
+<text class="rm" x="255" y="790">Living Room</text>
+<text class="sm" x="558" y="600">Closet</text>
+</svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="916" height="1051" viewBox="0 0 916 1051" preserveAspectRatio="xMidYMid meet" role="img" aria-label="Carroll LaPlata Village two-bedroom townhouse, upper level floor plan with two bedrooms, bathroom, hallway, closets and stairs">
+<defs><style>
+    .fp{fill:#FFFFFF}
+    .w{fill:none;stroke:#2C3E2D;stroke-width:7;stroke-linecap:butt}
+    .wo{fill:none;stroke:#2C3E2D;stroke-width:10;stroke-linecap:butt}
+    .d{fill:none;stroke:#7C9880;stroke-width:4;stroke-dasharray:5 6}
+    .arc{fill:none;stroke:#5E7D63;stroke-width:3}
+    .win{fill:none;stroke:#2C3E2D;stroke-width:2.5}
+    .rm{fill:#22331F;font-family:'Helvetica Neue',Arial,sans-serif;font-size:25px;font-style:italic;text-anchor:middle}
+    .cl{fill:#4A5C4D;font-family:'Helvetica Neue',Arial,sans-serif;font-size:18px;font-style:italic;text-anchor:middle}
+    .sm{fill:#4A5C4D;font-family:'Helvetica Neue',Arial,sans-serif;font-size:14px;font-style:italic;text-anchor:middle}
+  </style></defs>
+<rect class="fp" x="18" y="15" width="883" height="1017"/>
+<path class="w" d="M362,14 V31 M362,168 V354 M362,357 V378 M362,508 V522 M513,14 V365 M704,547 V982 M887,14 V346 M887,364 V1029 M357,184 H495 M383,196 H492 M500,196 H518 M490,350 H741 M367,364 H388 M498,364 H525 M538,364 H733 M25,519 H365 M368,519 H493 M502,519 H533 M644,519 H694 M18,532 H498 M500,532 H536 M655,532 H696 M18,1018 H697 M747,1018 H867 M884,1018 H897"/>
+<path class="d" d="M362,222 V237 M362,344 V359 M362,502 V517 M362,738 V757 M362,768 V783 M513,172 V196 M704,438 V469 M704,519 V541 M704,984 V1028 M887,344 V367 M887,1012 V1028 M492,184 H517 M631,184 H646 M722,184 H737 M362,196 H379 M358,350 H396 M515,350 H574 M592,350 H622 M670,350 H711 M858,350 H896 M362,364 H390 M859,364 H897 M364,519 H388 M639,519 H686 M694,532 H714 M26,1018 H62 M689,1018 H733 M858,1018 H887"/>
+<path class="wo" d="M18,15 H901 V1032 H18 V15"/>
+<text class="rm" x="190" y="270">Bedroom</text>
+<text class="rm" x="290" y="760">Bedroom</text>
+<text class="rm" x="690" y="160">Bathroom</text>
+<text class="cl" x="615" y="445">Hallway</text>
+<text class="sm" x="440" y="110">Closet</text>
+<text class="sm" x="440" y="290">Closet</text>
+</svg>
